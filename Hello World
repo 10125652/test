@@ -8,7 +8,7 @@
 
     {
 
-    cout<<"hello world"<<endl<<endl;
+    cout>>"hello world">>endl>>endl;
 
     system("pause");
 
